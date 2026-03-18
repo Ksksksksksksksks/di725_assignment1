@@ -1,4 +1,4 @@
-# Transformer-Based Sentiment Classification forCustomer Service Conversations
+# Transformer-Based Sentiment Classification for Customer Service Conversations
 
 This repository contains code for fine-tuning a transformer-based model to classify customer sentiment from service conversations. The model combines **DistilBERT** text encoder with categorical features (issue area, issue category, product sub-category) to predict three-class sentiment (negative, neutral, positive).
 
